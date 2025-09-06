@@ -27,9 +27,9 @@ gamerule maxCommandForkCount 999999999
 gamerule mobGriefing false
 gamerule naturalRegeneration false
 gamerule projectilesCanBreakBlocks false
-gamerule pvp false
 gamerule showDeathMessages false
 #gamerule showTags false #uncomment for complete game
 gamerule spawnChunkRadius 0
 gamerule spawnRadius 0
 gamerule universalAnger true
+## Storage
