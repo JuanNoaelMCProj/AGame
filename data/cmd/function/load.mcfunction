@@ -1,4 +1,3 @@
-function player_motion:internal/technical/load
 ## Gamerules
 gamerule commandBlockOutput false
 gamerule commandModificationBlockLimit 999999999
@@ -20,9 +19,8 @@ gamerule doWeatherCycle false
 gamerule doWardenSpawning false
 #gamerule enderPearlIsVanishOnDeath true #depends on behavior w/ immediate respawn + spectator functionality
 gamerule forgiveDeadPlayers false
-gamerule functionCommandLimit 333333
 gamerule keepInventory true
-gamerule maxcommandChainLength 999999999
+gamerule maxCommandChainLength 999999999
 gamerule maxCommandForkCount 999999999
 gamerule mobGriefing false
 gamerule naturalRegeneration false

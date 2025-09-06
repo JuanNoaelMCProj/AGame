@@ -1,5 +1,7 @@
 {
   "values":[
-    "cmd:load"
+    "cmd:load",
+    "player_motion:internal/technical/load",
+    "gu:zzz/load"
   ]
 }
