@@ -21,13 +21,13 @@ gamerule doWardenSpawning false
 gamerule forgiveDeadPlayers false
 gamerule keepInventory true
 gamerule maxCommandChainLength 999999999
-gamerule maxCommandForkCount 999999999
+gamerule maxCommandForkCount 333
 gamerule mobGriefing false
 gamerule naturalRegeneration false
 gamerule projectilesCanBreakBlocks false
 gamerule showDeathMessages false
 #gamerule showTags false #uncomment for complete game
-gamerule spawnChunkRadius 0
+gamerule spawnChunkRadius 1
 gamerule spawnRadius 0
 gamerule universalAnger true
 ## Storage
