@@ -1,5 +1,4 @@
 {
-  "values":[
-    "cmd:tick"
-  ]
+  "values":["gui:menu1"],
+  "_comment":"cmd:tick"
 }
