@@ -1,4 +1,6 @@
 {
-  "values":["gui:dir"],
-  "_comment":"cmd:tick"
+  "values":[
+    "cmd:tick",
+    "gui:dir"
+  ]
 }
