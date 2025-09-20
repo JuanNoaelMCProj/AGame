@@ -1,0 +1,1 @@
+execute as @e[tag=hitbox] at @s run function cmd:hitbox/display with entity @s data

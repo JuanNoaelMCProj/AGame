@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 # Map
 execute unless data entity @p Inventory[{components:{"minecraft:custom_data":{gui:1}},Slot:9b}]
 # Equipment
