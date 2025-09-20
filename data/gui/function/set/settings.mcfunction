@@ -3,4 +3,3 @@ clear @p *[minecraft:custom_data={gui:1}]
 scoreboard players set $window dummy 1
 data modify block 15 -15 15 Items set from storage menu:settings Items
 execute as @p run function gui:run
-say 4
