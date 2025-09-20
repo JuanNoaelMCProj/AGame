@@ -1,3 +1,5 @@
+## Set Container
+setblock 15 -15 15 chest
 ## Gamerules
 gamerule commandBlockOutput false
 gamerule commandModificationBlockLimit 999999999
@@ -31,3 +33,6 @@ gamerule spawnChunkRadius 1
 gamerule spawnRadius 0
 gamerule universalAnger true
 ## Storage
+## Scoreboards
+scoreboard objectives add dummy dummy
+scoreboard objectives add gametime dummy

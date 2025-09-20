@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "damage_taken": {
+      "trigger": "minecraft:entity_hurt_player"
+    }
+  },
+  "rewards": {
+    "function": "check:damage_taken"
+  }
+}

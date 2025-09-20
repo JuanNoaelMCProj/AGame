@@ -1,0 +1,1 @@
+give @s command_block[food={nutrition:0,saturation:0,can_always_eat:true},consumable={consume_seconds:2147483647,animation:"none",has_consume_particles:false},custom_data={weapon:1},max_stack_size=1]
